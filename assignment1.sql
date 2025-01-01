@@ -1,6 +1,6 @@
-
-USE yac97;
-
+USE mydataset 
+-- replace as own dataset
+	
 DROP TABLE IF EXISTS orderdetails;
 DROP TABLE IF EXISTS orders;
 DROP TABLE IF EXISTS customers;
