@@ -1,5 +1,5 @@
 USE mydataset 
--- replace as own dataset
+--- replace as own dataset
 	
 DROP TABLE IF EXISTS orderdetails;
 DROP TABLE IF EXISTS orders;
